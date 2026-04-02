@@ -1,4 +1,5 @@
-<p align= "center"><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7bdd1830-5110-42f9-a2b7-bb3d1afe13be" />
+<p align= "center"><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a6f4bf35-5064-47c5-9777-a3eec7ba1534" />
+
 </p>
 
 <h1>🌍Geospatial Monitoring and Predictive Environmental Impact </h1>
